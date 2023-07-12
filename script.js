@@ -40,6 +40,11 @@ const gameLoop = ((x, y) => {
     }
   })
   
+  // $(document).ready( () => {
+  //   $('#head-animate').animate({
+  //     width: '170px'
+  //   }, 3000)
+  // })
   let player = document.getElementById('user-side')
   let system = document.getElementById('bot-side')
   

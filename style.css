@@ -2,7 +2,6 @@ html {
     height: 100%;
     width: 100%;
   }
-  
   #bot-side {
     transform: scaleX(-1);
   }
